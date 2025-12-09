@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 <html>
   <body>
-    <title>/mayank</title>
+    <title>/Mayank Bhardwaj</title>
   </body>
-</html>
+</html> 
 <!---
 mayank-bhardwaj12/mayank-bhardwaj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
